@@ -8,6 +8,10 @@ Meine Software SupiDupiSoft macht was gaaaaanz tolles....
 
 
 # Kontextabgrenzung
+
+![image](https://github.com/bjoernmichels/Hausaufgaben/assets/47139880/b94594d7-0e1f-4bda-b877-90f3a3def492)
+
+
 *Kontext-Diagramm und Beschreibung.*
 
 # Anforderungen
