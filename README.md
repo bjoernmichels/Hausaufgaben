@@ -1,9 +1,10 @@
-**Architekturdokumentation der Software *NAME***
+**Architekturdokumentation der Software SupiDupiSoft**
+
 Die Architekturdokumentation ist angelehnt an das arc42-Template[^1]
 
 # Einführung und Ziele
 
-*Kurze Beschreibung der Ziele und Umfeld der Anwendung* 
+Meine Software SupiDupiSoft macht was gaaaaanz tolles.... 
 
 
 # Kontextabgrenzung
